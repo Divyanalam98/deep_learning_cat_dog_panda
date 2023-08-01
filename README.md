@@ -1,4 +1,4 @@
-# deep_learning_cat_dog_panda
+#  A Deep Learning Approach to Cat, Dog, and Panda Image Classification
 
 ![image](https://github.com/Divyanalam98/deep_learning_cat_dog_panda/assets/63960112/0b1068bf-781a-478e-8341-f46c9e6ad8a1)
 
